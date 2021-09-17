@@ -1,0 +1,1222 @@
+2021-08-28 14:29:37,541 - 15244-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequests.py[line:69] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-28 17:53:47,619 - 12412-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:75] - INFO: 获取二维码失败
+2021-08-30 09:28:46,371 - 7512-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 09:29:01,345 - 7328-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 09:30:16,919 - 8956-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 09:31:12,768 - 16304-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:75] - INFO: 获取二维码失败
+2021-08-30 09:34:15,087 - 13380-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:75] - INFO: 获取二维码失败
+2021-08-30 09:35:11,604 - 9708-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 09:36:34,198 - 9048-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:75] - INFO: 获取二维码失败
+2021-08-30 09:39:31,312 - 16900-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:33] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 09:41:09,409 - 15436-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 09:42:55,219 - 15304-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 09:44:00,727 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:81] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 09:44:01,199 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:03,278 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:05,354 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:07,423 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:09,492 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:11,562 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:13,641 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:15,705 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:17,784 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:19,858 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:21,922 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:23,994 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:26,068 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:28,142 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:30,216 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:32,294 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:34,372 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:36,447 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:38,519 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:40,595 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:42,659 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:44,739 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:46,812 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:48,888 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:50,967 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:53,039 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:55,120 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:57,188 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:44:59,270 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:45:01,351 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:45:03,428 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:45:05,497 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:45:07,578 - 17096-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:101] - ERROR: 获取二维码扫描结果异常
+2021-08-30 09:46:45,553 - 17116-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 09:50:19,526 - 17504-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 获取二维码失败
+2021-08-30 09:52:59,806 - 14712-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 获取二维码失败
+2021-08-30 09:53:47,267 - 16036-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequests.py[line:31] - INFO: 获取二维码失败
+2021-08-30 10:00:53,963 - 17696-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 10:01:04,867 - 15612-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 10:01:11,944 - 11584-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 10:01:52,914 - 15116-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:01:53,359 - 15116-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:99] - ERROR: 获取二维码扫描结果异常
+2021-08-30 10:01:55,438 - 15116-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:99] - ERROR: 获取二维码扫描结果异常
+2021-08-30 10:01:57,502 - 15116-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:99] - ERROR: 获取二维码扫描结果异常
+2021-08-30 10:02:26,501 - 12032-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:03:23,667 - 15852-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:04:44,226 - 17004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:04:59,852 - 7980-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:06:18,940 - 12620-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:06:51,033 - 10560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:08:47,132 - 14824-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:10:22,526 - 16416-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:10:39,896 - 12228-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:14:31,669 - 15736-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:16:23,918 - 12180-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:16:40,723 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:16:40,992 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:43,136 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:45,287 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:47,445 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:49,567 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:51,715 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:53,857 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:56,009 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:16:58,168 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:17:00,279 - 18004-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:29:07,939 - 16520-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:29:08,459 - 16520-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:29:10,618 - 16520-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:29:12,774 - 16520-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:29:14,925 - 16520-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:30:09,925 - 18736-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:30:10,227 - 18736-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:30:12,444 - 18736-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:31:44,980 - 16192-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:31:45,448 - 16192-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:31:47,594 - 16192-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 二维码无效
+2021-08-30 10:33:09,104 - 15876-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:76] - INFO: 获取二维码失败
+2021-08-30 10:33:50,830 - 18224-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:33:51,000 - 18224-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 参数错误
+2021-08-30 10:33:53,031 - 18224-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 参数错误
+2021-08-30 10:33:55,069 - 18224-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 257, Message: 参数错误
+2021-08-30 10:35:24,600 - 16416-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:35:24,869 - 16416-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 参数错误
+2021-08-30 10:35:27,016 - 16416-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:104] - INFO: Code: 257, Message: 参数错误
+2021-08-30 10:43:17,610 - 14584-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:43:18,338 - 14584-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:43:20,481 - 14584-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:105] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:44:11,697 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:44:12,256 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:44:14,389 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:44:16,547 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:44:18,682 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:44:20,964 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 10:44:23,019 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:106] - INFO: 已完成手机客户端确认
+2021-08-30 10:44:23,133 - 4088-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:150] - INFO: 二维码登录成功
+2021-08-30 10:55:25,142 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 10:55:25,801 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:27,954 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:30,111 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:32,264 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:34,407 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:36,562 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:38,720 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:40,883 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 10:55:43,033 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 10:55:45,175 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 10:55:47,299 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:103] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 10:55:49,446 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:106] - INFO: 已完成手机客户端确认
+2021-08-30 10:55:49,564 - 9560-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestLogin.py[line:150] - INFO: 二维码登录成功
+2021-08-30 13:05:12,341 - 18008-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestSeckill.py[line:36] - INFO: 登录成功
+2021-08-30 13:06:31,291 - 18656-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestSeckill.py[line:36] - INFO: 登录成功
+2021-08-30 13:08:07,223 - 10400-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestSeckill.py[line:36] - INFO: 登录成功
+2021-08-30 13:10:46,403 - 3960-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestSeckill.py[line:36] - INFO: 登录成功
+2021-08-30 13:12:20,133 - 15340-MainThread - E:/jd_maotai/jd_spider_requests/SpiderRequestSeckill.py[line:37] - INFO: 登录成功
+2021-08-30 14:57:09,693 - 16984-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:81] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 14:57:09,816 - 16984-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:37] - INFO: 登录成功
+2021-08-30 15:00:55,016 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:79] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:00:55,883 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:00:57,928 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:00:59,975 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:02,023 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:04,073 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:06,127 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:08,182 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:10,234 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:12,273 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:14,325 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:16,372 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:18,425 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:20,468 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:22,519 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:24,573 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:26,613 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:28,659 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:30,704 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:32,742 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:34,789 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:36,842 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:38,891 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:40,942 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:01:42,977 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:01:45,027 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:103] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:01:47,077 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:106] - INFO: 已完成手机客户端确认
+2021-08-30 15:01:47,518 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:150] - INFO: 二维码登录成功
+2021-08-30 15:01:53,063 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:81] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 15:01:53,183 - 17356-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:37] - INFO: 登录成功
+2021-08-30 15:04:53,727 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:04:53,982 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:04:56,035 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:04:58,083 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:05:00,125 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:05:02,176 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:05:02,288 - 10880-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:08:10,056 - 1600-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:08:10,458 - 1600-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:08:12,510 - 1600-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:08:14,563 - 1600-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:08:16,616 - 1600-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:08:16,714 - 1600-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:11:52,941 - 10760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:11:53,290 - 10760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:11:55,338 - 10760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:11:57,378 - 10760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:11:59,418 - 10760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:11:59,531 - 10760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:13:27,577 - 18452-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:75] - INFO: 获取二维码失败
+2021-08-30 15:16:03,801 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:75] - INFO: 获取二维码失败
+2021-08-30 15:16:38,654 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:16:39,035 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:16:41,180 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:16:43,330 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:16:45,480 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:16:45,801 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:16:50,361 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 15:16:50,662 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:16:51,011 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:16:53,161 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:16:55,317 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:16:57,476 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:16:59,637 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:17:00,000 - 10188-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:21:49,026 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 15:21:49,569 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:21:49,798 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:21:51,851 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:21:53,895 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:21:55,954 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:21:58,013 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:21:58,336 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:21:59,574 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:21:59,769 - 10792-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【283】毫秒
+2021-08-30 15:22:00,281 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:22:00,325 - 10792-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【283】毫秒
+2021-08-30 15:22:00,719 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:22:00,768 - 10792-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【283】毫秒
+2021-08-30 15:22:01,231 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:22:01,273 - 10792-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【283】毫秒
+2021-08-30 15:22:01,837 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:22:01,885 - 10792-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【283】毫秒
+2021-08-30 15:22:02,326 - 10792-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:22:02,394 - 10792-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 09:59:59.500000，检测本地时间与京东服务器时间误差为【283】毫秒
+2021-08-30 15:39:54,006 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 15:39:54,506 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 15:39:55,365 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:39:57,408 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:39:59,451 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:40:01,491 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 15:40:03,541 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 15:40:05,594 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 15:40:05,918 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 15:40:06,638 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 15:40:06,874 - 15668-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 11:59:59.100000，检测本地时间与京东服务器时间误差为【294】毫秒
+2021-08-30 15:40:06,875 - 15668-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 15:40:07,083 - 15668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:121] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 16:31:37,306 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:77] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 16:31:37,778 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 16:31:38,246 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:31:40,404 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:31:42,546 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 16:31:44,697 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 16:31:45,031 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 16:31:46,736 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:100] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 16:31:46,974 - 9760-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 11:59:59.100000，检测本地时间与京东服务器时间误差为【272】毫秒
+2021-08-30 16:31:46,975 - 9760-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 16:31:47,069 - 9760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:119] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 16:37:21,380 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 16:37:21,754 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 16:37:22,056 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:37:24,204 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:37:26,350 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:37:28,496 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:37:30,661 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 16:37:32,811 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 16:37:33,144 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 16:37:33,757 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 16:37:33,935 - 16764-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 11:59:59.100000，检测本地时间与京东服务器时间误差为【233】毫秒
+2021-08-30 16:37:33,936 - 16764-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 16:37:34,138 - 16764-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:118] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 16:46:24,995 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 16:46:25,386 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 16:46:25,603 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:46:27,656 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:46:29,698 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 16:46:31,741 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 16:46:33,798 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 16:46:34,116 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 16:46:34,862 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 16:46:35,129 - 17040-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 11:59:59.100000，检测本地时间与京东服务器时间误差为【248】毫秒
+2021-08-30 16:46:35,130 - 17040-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 16:46:35,345 - 17040-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:118] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 19:57:33,550 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 19:57:33,948 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 19:57:34,243 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 19:57:36,294 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 19:57:38,339 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 19:57:40,387 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 19:57:40,722 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 19:57:41,296 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 19:57:41,490 - 10928-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 11:59:59.500000，检测本地时间与京东服务器时间误差为【87】毫秒
+2021-08-30 19:57:41,490 - 10928-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 19:57:41,711 - 10928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:124] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 20:00:20,958 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 20:00:21,468 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 20:00:21,682 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:00:23,735 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 20:00:25,785 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 20:00:26,104 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 20:00:26,735 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 20:00:26,970 - 15904-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 11:59:59.500000，检测本地时间与京东服务器时间误差为【121】毫秒
+2021-08-30 20:00:26,971 - 15904-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 20:00:27,202 - 15904-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 20:28:00,284 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 20:28:00,823 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 20:28:01,075 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:28:03,123 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:28:05,177 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-30 20:28:07,222 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 20:28:07,545 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 20:28:08,525 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 20:28:08,779 - 15916-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 20:27:38，检测本地时间与京东服务器时间误差为【81】毫秒
+2021-08-30 20:28:08,779 - 15916-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 20:28:08,822 - 15916-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 20:29:03,396 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 20:29:03,936 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 20:29:04,229 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:29:06,384 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:29:08,550 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 20:29:08,894 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 20:29:09,587 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 20:29:09,728 - 19644-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-08-30 20:29:01，检测本地时间与京东服务器时间误差为【83】毫秒
+2021-08-30 20:29:09,729 - 19644-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 20:29:09,775 - 19644-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 20:36:37,747 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:76] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 20:36:38,585 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 20:36:38,878 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:36:41,031 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:36:43,157 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 20:36:45,317 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 20:36:45,660 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 20:36:46,348 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:99] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 20:36:46,526 - 15500-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【66】毫秒
+2021-08-30 20:36:46,527 - 15500-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-30 20:36:46,581 - 15500-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2021-08-30 21:01:59,657 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:81] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-30 21:02:00,237 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-30 21:02:00,561 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 21:02:02,718 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-30 21:02:04,860 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-30 21:02:05,210 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-30 21:02:05,972 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:06,809 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:07,279 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:07,983 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:08,605 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:09,827 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:10,387 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:11,258 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:11,795 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-30 21:02:12,919 - 5620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:109] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:19,231 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:82] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 09:11:19,841 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 09:11:20,495 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:11:22,675 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:11:24,830 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:11:26,997 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 09:11:29,156 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 09:11:29,494 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 09:11:30,440 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:31,207 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:31,735 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:32,378 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:33,213 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:33,798 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:34,463 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:35,295 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:35,925 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:11:36,431 - 22752-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:28,300 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:82] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 09:13:28,714 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 09:13:29,340 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:13:31,494 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:13:33,675 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 09:13:34,008 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 09:13:34,707 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:35,346 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:36,150 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:36,581 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:37,226 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:37,750 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:38,232 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:38,703 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:39,194 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:39,758 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:40,603 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:13:41,263 - 19668-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:47:52,615 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:82] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 09:47:53,033 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 09:47:53,221 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:47:55,276 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 09:47:57,320 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 09:47:57,659 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 09:47:58,348 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:110] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 09:47:58,539 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:47:58,539 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:47:59,050 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:47:59,051 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:47:59,566 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:47:59,567 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:00,067 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:00,067 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:00,571 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:00,572 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:01,085 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:01,086 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:01,589 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:01,590 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:02,092 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:02,093 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:02,605 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:02,606 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:03,120 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:03,121 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:03,636 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:03,637 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:04,138 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:04,139 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:04,639 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:04,640 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:05,148 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:05,149 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:05,663 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:05,664 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:06,178 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:06,179 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:06,681 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:06,682 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:07,187 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:07,188 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:07,690 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:07,691 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:08,206 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:08,207 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:08,712 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:08,712 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:09,213 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:09,214 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:09,729 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:09,730 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:10,230 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:10,231 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:10,746 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:10,747 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:11,262 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:11,262 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:11,766 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:11,767 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:12,282 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:12,282 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:12,787 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:12,788 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:13,294 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:13,295 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 09:48:13,795 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:132] - INFO: 预约状态【预约未开始】,继续等待预约
+2021-08-31 09:48:13,796 - 21016-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:139] - INFO: 预约状态【预约未开始】,继续等待预约,每0.5毫秒循环一次判断直至时间预约到达
+2021-08-31 11:13:04,902 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:85] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 11:13:05,372 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 11:13:05,895 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:13:08,059 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:13:10,220 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 11:13:12,340 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 11:13:12,689 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 11:13:13,236 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:113] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:13:13,432 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约进行中】,继续等待预约
+2021-08-31 11:13:13,432 - 5504-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:137] - INFO: 预约开始时间【2021-08-31 10:00:00】已到，开始预约
+2021-08-31 11:13:13,433 - 5504-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-537】毫秒
+2021-08-31 11:13:13,433 - 5504-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-31 11:33:20,661 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 11:33:21,136 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 11:33:21,352 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:33:23,405 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:33:25,450 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:33:27,498 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:33:29,541 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:33:31,590 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:33:33,644 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 11:33:35,701 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 11:33:36,029 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 11:33:36,554 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:37,348 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:38,060 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:38,736 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:39,159 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:39,574 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:40,038 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:33:40,554 - 23240-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:35:31,177 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 11:35:31,569 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 11:35:31,780 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:35:33,827 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:35:35,887 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 11:35:36,220 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 11:35:37,151 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:35:37,831 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:35:38,303 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:35:38,949 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:35:39,372 - 5080-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:36:32,381 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 11:36:32,734 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 11:36:32,994 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:36:35,047 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:36:37,095 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:36:39,150 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 11:36:39,487 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 11:36:39,994 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:36:40,803 - 17688-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:38:04,966 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 11:38:05,376 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 11:38:05,778 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:38:07,818 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 11:38:09,868 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 11:38:10,205 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 11:38:10,780 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:38:11,517 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:38:11,970 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:38:12,734 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 11:38:13,319 - 12832-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:40,748 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:07:41,142 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:07:41,478 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:07:43,534 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:07:45,580 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:07:47,626 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:07:49,677 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:07:51,718 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 13:07:53,771 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:07:54,093 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:07:54,637 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:55,405 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:55,913 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:56,344 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:56,887 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:57,398 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:07:58,336 - 15760-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:09:15,281 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:09:15,693 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:09:15,891 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:09:17,943 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 13:09:19,999 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:09:20,340 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:09:20,923 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:09:21,179 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:21,686 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:22,203 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:22,708 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:23,223 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:23,735 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:24,248 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:24,760 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:25,273 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:25,783 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:26,295 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:26,806 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:27,319 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:27,830 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:28,347 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:28,863 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:29,378 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:29,879 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:30,393 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:30,909 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:09:31,423 - 22312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:09:11】,【-1250】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:46,386 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:13:46,804 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:13:47,000 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:13:49,062 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:13:51,108 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:13:51,423 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:13:52,001 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:13:52,177 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:52,683 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:53,185 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:53,701 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:54,214 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:54,729 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:55,243 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:55,755 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:56,256 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:56,765 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:13:57,280 - 17736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:133] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:13:44】,【1246】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:26,837 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:18:27,249 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:18:27,448 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:18:29,493 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:18:31,540 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:18:31,861 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:18:32,452 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:18:32,604 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:33,115 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:33,632 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:34,134 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:34,635 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:35,141 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:35,655 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:36,169 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:36,671 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:37,184 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:18:37,701 - 19840-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:135] - INFO: 预约状态【预约未开始】,预约开始时间为【2021-09-01 10:00:00】,当前时间为【2021-08-31 13:18:22】,【1241】分钟后开始预约。继续等待预约,每0.5毫秒循环一次判断直至预约时间到达
+2021-08-31 13:38:23,276 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:38:23,675 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:38:23,922 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:38:25,969 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:38:28,014 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 13:38:30,068 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:38:30,394 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:38:30,871 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:38:31,003 - 21176-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 预约结束时间【2021-09-01 11:59:59】已过，请明天【11:59:59】号再进行预约
+2021-08-31 13:41:06,378 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:41:06,848 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:41:07,186 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:41:09,330 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:41:11,494 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:41:11,849 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:41:12,732 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:41:12,909 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 今天预约时间已过，请明天【2021-09-01】号再进行预约
+2021-08-31 13:42:41,267 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-08-31 13:42:41,740 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:42:42,051 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:42:44,218 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:42:46,384 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:42:46,729 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:42:47,287 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:104] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:42:47,430 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:126] - INFO: 今天预约时间已过，请明天【2021-09-01】号再进行预约
+2021-08-31 13:51:49,011 - 22720-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-08-31 13:51:49,504 - 22720-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 13:51:49,999 - 22720-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:51:52,164 - 22720-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 13:51:54,296 - 22720-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 13:51:54,661 - 22720-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 13:51:55,734 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 13:51:55,739 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 13:51:55,743 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 13:51:55,752 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 13:51:56,054 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:51:56,055 - 3560-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-626】毫秒
+2021-08-31 13:51:56,055 - 3560-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-31 13:51:56,146 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:51:56,147 - 20732-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-626】毫秒
+2021-08-31 13:51:56,147 - 20732-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-31 13:51:56,165 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:51:56,166 - 22924-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-626】毫秒
+2021-08-31 13:51:56,166 - 22924-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-31 13:51:56,220 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:51:56,221 - 2652-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-626】毫秒
+2021-08-31 13:51:56,221 - 2652-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-31 13:51:56,245 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 13:51:56,342 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,344 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,352 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,353 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,599 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,604 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,671 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 13:51:56,671 - 4372-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-626】毫秒
+2021-08-31 13:51:56,671 - 4372-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:55] - INFO: 时间到达，开始执行……
+2021-08-31 13:51:56,762 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,767 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,790 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:56,945 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,006 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,057 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,077 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,207 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,300 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,306 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,358 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,498 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,542 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,570 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,696 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,730 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,901 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,902 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:57,929 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,081 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,082 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,235 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,244 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,350 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,371 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,470 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,596 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,612 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,703 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,804 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,806 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,928 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:58,956 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,076 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,106 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,157 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,258 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,266 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,372 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,386 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,553 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,566 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,594 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,779 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,804 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,824 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:51:59,929 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,035 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,054 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,166 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,204 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,278 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,288 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,303 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,452 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,490 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,536 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,554 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,679 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,808 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,823 - 2652-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,917 - 3560-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,991 - 4372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:00,992 - 22924-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 13:52:01,093 - 20732-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:37,160 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-08-31 15:02:37,715 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 15:02:37,943 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:02:39,999 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:02:42,047 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:02:44,097 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:02:46,149 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:02:48,200 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 15:02:50,253 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 15:02:50,586 - 21336-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 15:02:51,531 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 15:02:51,537 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 15:02:51,547 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 15:02:51,552 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 15:02:51,905 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:02:51,905 - 15408-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:51] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-714】毫秒
+2021-08-31 15:02:51,906 - 15408-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:57] - INFO: 时间到达，开始执行……
+2021-08-31 15:02:51,932 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:02:51,932 - 19928-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:51] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-714】毫秒
+2021-08-31 15:02:51,932 - 19928-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:57] - INFO: 时间到达，开始执行……
+2021-08-31 15:02:51,956 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:02:51,957 - 12728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:51] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-714】毫秒
+2021-08-31 15:02:51,957 - 12728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:57] - INFO: 时间到达，开始执行……
+2021-08-31 15:02:52,007 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 用户:你星哥哥吖
+2021-08-31 15:02:52,059 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:02:52,060 - 22596-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:51] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-714】毫秒
+2021-08-31 15:02:52,060 - 22596-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:57] - INFO: 时间到达，开始执行……
+2021-08-31 15:02:52,171 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,185 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,185 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,194 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,382 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:189] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:02:52,383 - 15952-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:51] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-714】毫秒
+2021-08-31 15:02:52,383 - 15952-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:57] - INFO: 时间到达，开始执行……
+2021-08-31 15:02:52,449 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,499 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,590 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,599 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,614 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,789 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,801 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,889 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:52,984 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,022 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,099 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,112 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,262 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,317 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,363 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,441 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,476 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,702 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,714 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,729 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,747 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:53,856 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,086 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,128 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,131 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,131 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,140 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,385 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,406 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,476 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,482 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,606 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,629 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,721 - 15408-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,725 - 15952-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,801 - 19928-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,865 - 22596-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:02:54,905 - 12728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:236] - INFO: 抢购链接获取失败，稍后自动重试
+2021-08-31 15:24:06,229 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-08-31 15:24:06,622 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 15:24:07,334 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:24:09,377 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:24:11,428 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:24:13,473 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:24:15,520 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 15:24:15,818 - 9640-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 15:24:16,932 - 2332-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:24:16,936 - 12620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:24:16,939 - 11700-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:24:16,951 - 1896-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:24:16,952 - 17664-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:24:17,343 - 1896-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:24:17,344 - 1896-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-699】毫秒
+2021-08-31 15:24:17,353 - 12620-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:24:17,354 - 2332-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-699】毫秒
+2021-08-31 15:24:17,354 - 12620-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-699】毫秒
+2021-08-31 15:24:17,364 - 11700-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:24:17,364 - 11700-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-699】毫秒
+2021-08-31 15:24:17,385 - 17664-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:24:17,385 - 17664-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-699】毫秒
+2021-08-31 15:26:34,773 - 7372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-08-31 15:26:35,269 - 7372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 15:26:35,560 - 7372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:26:37,725 - 7372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:26:39,877 - 7372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 15:26:40,194 - 7372-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 15:26:41,284 - 21004-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:26:41,290 - 17940-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:26:41,293 - 9736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:26:41,701 - 9736-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:26:41,701 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-720】毫秒
+2021-08-31 15:26:41,702 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:41,718 - 14512-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:26:41,728 - 21004-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:26:41,728 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-720】毫秒
+2021-08-31 15:26:41,729 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:41,787 - 17940-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:26:41,787 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-720】毫秒
+2021-08-31 15:26:41,788 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,061 - 12816-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:26:42,068 - 14512-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:26:42,069 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-720】毫秒
+2021-08-31 15:26:42,069 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,217 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,232 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,295 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,574 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,657 - 12816-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:26:42,657 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-720】毫秒
+2021-08-31 15:26:42,658 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,730 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,746 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:42,808 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,088 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,166 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,243 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,259 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,321 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,600 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,677 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,756 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,771 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:43,832 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,114 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,192 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,269 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,284 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,346 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,627 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,705 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,785 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,801 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:44,849 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,129 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,208 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,287 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,302 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,363 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,630 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,721 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,797 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,812 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:45,874 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:46,138 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:46,232 - 12816-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:46,307 - 9736-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:46,323 - 21004-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:46,385 - 17940-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:26:46,638 - 14512-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:37:59,183 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-08-31 15:37:59,566 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 15:37:59,887 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:38:02,033 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:38:04,164 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:38:06,300 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-08-31 15:38:08,452 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 15:38:08,756 - 11420-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 15:38:09,823 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:09,837 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:09,837 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:09,845 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:09,853 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:10,255 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:10,255 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:10,275 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:10,275 - 20320-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:10,276 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:10,276 - 3404-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:10,281 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:10,281 - 15728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:10,317 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:10,317 - 15820-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:11,070 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,197 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,265 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,289 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,505 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:11,505 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:11,507 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:11,513 - 3404-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:11,514 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,579 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:11,580 - 20320-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:11,774 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,801 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:11,801 - 15728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:11,894 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:11,984 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,078 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:12,078 - 15820-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:12,192 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:12,193 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:12,239 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:12,239 - 20320-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:12,256 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,425 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,531 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:12,532 - 15728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:12,554 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,671 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,699 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,808 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:12,809 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:12,898 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:12,948 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:12,948 - 3404-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,063 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,063 - 20320-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,127 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,241 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,350 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,417 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,417 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,478 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,489 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,490 - 15820-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,508 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,589 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,590 - 3404-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,707 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,707 - 15728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,727 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,735 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,736 - 20320-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:13,827 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,866 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:13,996 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:13,996 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,085 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:14,099 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:14,100 - 3404-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,102 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:14,105 - 15820-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:14,116 - 15820-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,270 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:14,386 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:14,386 - 15728-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,423 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:14,424 - 20320-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,474 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:14,528 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:14,528 - 16948-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,750 - 3404-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:38:14,751 - 3404-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59.500，检测本地时间与京东服务器时间误差为【-732】毫秒
+2021-08-31 15:38:14,789 - 20320-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:14,805 - 15728-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:38:14,850 - 16948-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:41:13,574 - 3316-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-08-31 15:41:13,933 - 3316-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-08-31 15:41:14,815 - 3316-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:41:16,975 - 3316-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-08-31 15:41:19,117 - 3316-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-08-31 15:41:19,442 - 3316-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-08-31 15:41:20,677 - 16312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:41:20,680 - 8096-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:41:20,682 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:41:20,743 - 3592-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:41:21,070 - 8096-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:41:21,070 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-703】毫秒
+2021-08-31 15:41:21,073 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,095 - 21100-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:41:21,096 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-703】毫秒
+2021-08-31 15:41:21,097 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,101 - 3592-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:41:21,102 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-703】毫秒
+2021-08-31 15:41:21,106 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,132 - 16312-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:41:21,132 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-703】毫秒
+2021-08-31 15:41:21,138 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,200 - 19788-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-08-31 15:41:21,574 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,605 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,620 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,624 - 19788-MainThread - E:\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-08-31 15:41:21,625 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-703】毫秒
+2021-08-31 15:41:21,632 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:21,650 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,075 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,107 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,123 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,138 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,153 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,586 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,617 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,632 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,648 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:22,664 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,102 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,133 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,133 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,164 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,180 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,614 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,645 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+
+2021-08-31 15:41:23,676 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:23,691 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,125 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,157 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,157 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,187 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,202 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,637 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,667 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,667 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,697 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:24,712 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:25,148 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:25,180 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+
+2021-08-31 15:41:25,210 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:25,226 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:25,662 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:25,694 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+
+2021-08-31 15:41:25,725 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:25,740 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,176 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,207 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,207 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,238 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,254 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,688 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,720 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,720 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,750 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:26,766 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,190 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,222 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,254 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,269 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,696 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,727 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,727 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,759 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:27,775 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,210 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,241 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,273 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,288 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,726 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,758 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,758 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,789 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:28,805 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,241 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,274 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,274 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,304 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,319 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,755 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,787 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,787 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,818 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:29,832 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,256 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,303 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,303 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,334 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,334 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,767 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:30,814 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+
+2021-08-31 15:41:30,845 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,272 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,319 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,319 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,350 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,788 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,834 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,834 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:31,864 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,294 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,340 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,372 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,372 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,795 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,841 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,841 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,873 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:32,874 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,298 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,345 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,375 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,375 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,812 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,858 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,858 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,890 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:33,890 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:34,327 - 8096-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:34,359 - 21100-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:34,359 - 3592-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:34,407 - 16312-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-08-31 15:41:34,407 - 19788-MainThread - E:\jd_maotai\jd_spider_time\SpiderTime.py[line:50] - INFO: 抢购时间未到达, 请耐心等待……
+2021-09-06 17:22:08,489 - 1464-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-09-06 17:23:08,394 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-09-06 17:23:08,725 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-09-06 17:23:21,351 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:23,402 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:25,454 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:27,506 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:29,561 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:31,621 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:33,674 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:23:35,724 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-09-06 17:23:37,790 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-09-06 17:23:38,289 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-09-06 17:23:38,914 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:103] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-09-06 17:23:39,161 - 8160-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:125] - INFO: 今天预约时间已过，请明天【2021-09-07】号再进行预约
+2021-09-06 17:24:04,691 - 11672-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-09-06 17:25:02,582 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:80] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-09-06 17:25:02,978 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:78] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-09-06 17:25:12,555 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:25:14,600 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-09-06 17:25:16,655 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:102] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-09-06 17:25:18,714 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:105] - INFO: 已完成手机客户端确认
+2021-09-06 17:25:19,053 - 11956-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestLogin.py[line:149] - INFO: 二维码登录成功
+2021-09-06 17:25:19,919 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-09-06 17:25:19,930 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-09-06 17:25:19,936 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-09-06 17:25:19,950 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-09-06 17:25:20,276 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-09-06 17:25:20,276 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-790】毫秒
+2021-09-06 17:25:20,278 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:47] - INFO: 时间到达, 开始执行……
+2021-09-06 17:25:20,358 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-09-06 17:25:20,358 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-790】毫秒
+2021-09-06 17:25:20,363 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:47] - INFO: 时间到达, 开始执行……
+2021-09-06 17:25:20,364 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-09-06 17:25:20,364 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-790】毫秒
+2021-09-06 17:25:20,368 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:47] - INFO: 时间到达, 开始执行……
+2021-09-06 17:25:20,423 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-09-06 17:25:20,424 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-790】毫秒
+2021-09-06 17:25:20,429 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:47] - INFO: 时间到达, 开始执行……
+2021-09-06 17:25:20,484 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:187] - INFO: 用户:你星哥哥吖
+2021-09-06 17:25:20,536 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,540 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,552 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,554 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,808 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,839 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,860 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:188] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-09-06 17:25:20,860 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:44] - INFO: 正在等待到达设定时间:2021-09-01 11:59:59，检测本地时间与京东服务器时间误差为【-790】毫秒
+2021-09-06 17:25:20,862 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_time\SpiderTime.py[line:47] - INFO: 时间到达, 开始执行……
+2021-09-06 17:25:20,887 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,949 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:20,981 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,133 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,219 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,224 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,321 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,414 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,557 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,563 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,573 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,707 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,761 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,889 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,896 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:21,980 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,136 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,179 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,260 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,266 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,284 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,382 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,439 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,523 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,548 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,665 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,694 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,722 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,822 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:22,894 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,045 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,053 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,105 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,113 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,217 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,354 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,364 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,403 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,431 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,486 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,641 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,669 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,684 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,690 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,928 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:23,952 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,012 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,022 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,096 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,304 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,316 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,317 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,350 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,362 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,591 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,599 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,623 - 9064-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,655 - 11780-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,688 - 7472-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,902 - 1596-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
+2021-09-06 17:25:24,922 - 10384-MainThread - E:\PycharmProjects\jd_maotai\jd_spider_requests\SpiderRequestSeckill.py[line:235] - INFO: 抢购链接获取失败，稍后自动重试
